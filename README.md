@@ -40,11 +40,6 @@ As organizações não governamentais <b>(ONGs)</b> são entidades privadas da s
 ### :mortar_board: Quem ministrou?
 
 A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
-
-### :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 <p align="center">Feito com ❤️ por <strong>Vitor Klein :wave: </p>
